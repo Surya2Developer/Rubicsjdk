@@ -20,5 +20,12 @@ Open a terminal in the project folder and run:
 
 
 # Screenshots
+![Screenshot](Images/Screenshot1.png)
+![Screenshot](Images/Screenshot2.png)
+![Screenshot](Images/Screenshot3.png)
+![Screenshot](Images/Screenshot4.png)
+![Screenshot](Images/Screenshot5.png)
+![Screenshot](Images/Screenshot6.png)
+
 
 
