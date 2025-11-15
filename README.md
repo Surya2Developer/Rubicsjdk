@@ -16,16 +16,21 @@ Open a terminal in the project folder and run:
 
 ```bash
 ./gradlew run
-
-
+```
 
 # Screenshots
-![Screenshot](Images/Screenshot1.png)
-![Screenshot](Images/Screenshot2.png)
-![Screenshot](Images/Screenshot3.png)
-![Screenshot](Images/Screenshot4.png)
-![Screenshot](Images/Screenshot5.png)
-![Screenshot](Images/Screenshot6.png)
+![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot1.png)
+![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot2.png)
+![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot3.png)
+![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot4.png)
+![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot5.png)
+![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot6.png)
+
+
+
+
+
+
 
 
 
