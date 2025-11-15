@@ -19,12 +19,22 @@ Open a terminal in the project folder and run:
 ```
 
 # Screenshots
-![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot1.png)
-![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot2.png)
-![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot3.png)
-![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot4.png)
-![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot5.png)
-![Screenshot](https://github.com/Surya2Developer/Rubicsjdk/blob/2f0a47d1b5a6a72dded9af1292efbe00cead7228/Images/Screenshot6.png)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Surya2Developer/Rubicsjdk/blob/main/Images/Screenshot1.png" width="300"/></td>
+    <td><img src="https://github.com/Surya2Developer/Rubicsjdk/blob/main/Images/Screenshot2.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Surya2Developer/Rubicsjdk/blob/main/Images/Screenshot3.png" width="300"/></td>
+    <td><img src="https://github.com/Surya2Developer/Rubicsjdk/blob/main/Images/Screenshot4.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Surya2Developer/Rubicsjdk/blob/main/Images/Screenshot5.png" width="300"/></td>
+    <td><img src="https://github.com/Surya2Developer/Rubicsjdk/blob/main/Images/Screenshot6.png" width="300"/></td>
+  </tr>
+</table>
+
 
 
 
